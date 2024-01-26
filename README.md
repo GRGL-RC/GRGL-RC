@@ -1,6 +1,10 @@
-# Hi there! 👋 I'm Cosmin Ghergheles
+# Hi there! 👋 I'm 🇷🇴 Cosmin Ghergheles
 
-Passionate PHP Fullstack Developer | Docker Enthusiast | Node.js | React | TypeScript
+Passionate 💪 PHP Fullstack Developer 
+| 🚢 Docker Enthusiast 
+| Node.js 🟢
+| React 🔵
+| TypeScript 🔷
 
 [![Profile Views](https://komarev.com/ghpvc/?username=GRGL-RC&color=brightgreen)](https://github.com/GRGL-RC)
 
