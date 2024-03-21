@@ -1,14 +1,22 @@
 # Hi there! 👋 I'm 🇷🇴 Cosmin Ghergheles
 
 Passionate 💪 Fullstack Developer 🌕
-[![Things i use and like <3](https://skillicons.dev/icons?i=js,ts,nestjs,react,docker,react,linux,nodejs,redux,vscode,tailwind,postgres,mysql,mongodb,laravel,php,github&perline=3)](https://skillicons.dev)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=GRGL-RC&color=brightgreen)](https://github.com/GRGL-RC)
 
-## About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=GRGL-RC&color=red)](https://github.com/GRGL-RC)
 
-I'm a results-driven developer with a deep passion for building robust and scalable applications. I specialize in full-stack development, particularly with PHP, and have extensive experience working with Docker, Node.js, React, and TypeScript.
+## Things i use and like 🤟
+#### Back-end
+[![Back-end](https://skillicons.dev/icons?i=ts,php,nodejs,nestjs,laravel,expressjs,jest&perline=10)](https://skillicons.dev)
 
-- 💻 I code with JavaScript, TypeScript.
-- 🐳 I'm a Docker fan
-- 🌐 Building dynamic web applications with Node.js and React.
+#### Front-end
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,alpinejs,tailwind,jest&perline=10)](https://skillicons.dev)
+
+#### Databases
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=10)](https://skillicons.dev)
+
+#### Deployment
+[![Deployment](https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,nginx,sentry&perline=10)](https://skillicons.dev)
+
+#### Others
+[![Others](https://skillicons.dev/icons?i=vscode,pnpm,vite,github,discord,md,windows&perline=10)](https://skillicons.dev)
