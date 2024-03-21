@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm 🇷🇴 Cosmin Ghergheles
 
-Passionate 💪 PHP Fullstack Developer
-- PHP 🟣
+Passionate 💪 Fullstack Developer
 - 🚢 Docker 🟦
 - Node.js 🟢
 - React 🔵
@@ -13,6 +12,6 @@ Passionate 💪 PHP Fullstack Developer
 
 I'm a results-driven developer with a deep passion for building robust and scalable applications. I specialize in full-stack development, particularly with PHP, and have extensive experience working with Docker, Node.js, React, and TypeScript.
 
-- 💻 I code with PHP, JavaScript, TypeScript.
+- 💻 I code with JavaScript, TypeScript.
 - 🐳 I'm a Docker fan
-- 🌐 Building dynamic web applications with PHP, Node.js and React.
+- 🌐 Building dynamic web applications with Node.js and React.
