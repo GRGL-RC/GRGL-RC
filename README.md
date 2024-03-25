@@ -3,7 +3,7 @@
 Passionate 💪 Fullstack Developer 🌕
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=GRGL-RC&color=red)](https://github.com/GRGL-RC)
+[![Profile Views](https://komarev.com/ghpvc/?username=GRGL-RC&color=blue)](https://github.com/GRGL-RC)
 
 ## Things i use and like 🤟
 #### Back-end
