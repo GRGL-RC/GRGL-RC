@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm 🇷🇴 Cosmin Ghergheles
+# Hi there! 👋 I'm Cosmin
 
-Passionate 💪 Fullstack Developer 🌕
+Fullstack Developer ✔️
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=GRGL-RC&color=blue)](https://github.com/GRGL-RC)
