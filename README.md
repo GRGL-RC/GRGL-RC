@@ -7,7 +7,7 @@ Passionate 💪 Fullstack Developer 🌕
 
 ## Things i use and like 🤟
 #### Back-end
-[![Back-end](https://skillicons.dev/icons?i=ts,php,nodejs,nestjs,laravel,expressjs,jest&perline=10)](https://skillicons.dev)
+[![Back-end](https://skillicons.dev/icons?i=ts,php,nodejs,nestjs,laravel,expressjs&perline=10)](https://skillicons.dev)
 
 #### Front-end
 [![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,alpinejs,tailwind,jest&perline=10)](https://skillicons.dev)
@@ -19,4 +19,4 @@ Passionate 💪 Fullstack Developer 🌕
 [![Deployment](https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,nginx,sentry&perline=10)](https://skillicons.dev)
 
 #### Others
-[![Others](https://skillicons.dev/icons?i=vscode,pnpm,vite,github,discord,md,windows&perline=10)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=vscode,pnpm,vite,github,discord,md&perline=10)](https://skillicons.dev)
